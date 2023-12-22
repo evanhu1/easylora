@@ -1,5 +1,5 @@
-# lora-trainer
-Automatically pulls dataset from GCS and train LoRA with LyCORIS / Kohya-SS
+# easylora
+Automatically pulls dataset from URL or directory and train a LoRA with LyCORIS / Kohya-SS
 
 # Usage
 ```
